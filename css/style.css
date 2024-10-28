@@ -27,3 +27,15 @@ h1 {
 .didascalia {
     font-size: 13px;
 }
+
+.trh {
+    background-color: #20A9E5;
+}
+
+.tr {
+    background-color: #B1E5F2;
+}
+
+#column-important {
+    width: 60%;
+}
