@@ -10,3 +10,20 @@ header {
     width: 210px;
     height: 60px;
 }
+
+h1 {
+    font-size: 35px;
+}
+
+.credit {
+    color: #808080;
+}
+
+.author {
+    text-decoration: none;
+    color: #20A9E5;
+}
+
+.didascalia {
+    font-size: 13px;
+}
