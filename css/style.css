@@ -15,7 +15,7 @@ h1 {
     font-size: 35px;
 }
 
-.credit {
+.credit, h3 {
     color: #808080;
 }
 
@@ -38,4 +38,19 @@ h1 {
 
 #column-important {
     width: 60%;
+}
+
+.banner {
+    height: 210px;
+    width: 300px;
+    color: white;
+    font-size: 2em;
+}
+
+#monitor {
+    background-image: url('../img/monitor.jpg');
+}
+
+#graph {
+    background-image: url('../img/graph.jpg');
 }
