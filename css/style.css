@@ -1,0 +1,12 @@
+header {
+    background-image: url("../img/pattern.png");
+    background-color: #4EA0FF;
+    background-repeat: repeat-x;
+    background-size: 28%;
+    height: 120px;
+}
+
+#logo {
+    width: 210px;
+    height: 60px;
+}
